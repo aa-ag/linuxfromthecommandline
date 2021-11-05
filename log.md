@@ -1,4 +1,6 @@
 - `echo $SHELL`
 - `echo $HOME` == `pwd` (if in home dir)
 - `clear` to clear terminal 
-- `ls -l`
+- `ls -l` (`-l` means _long_)
+- `ls -l Desktop/` (`/` optional, to show specific dir)
+- `ls -l Desktop/example.csv` to show specific file
