@@ -1,1 +1,2 @@
 - `echo $SHELL`
+- `echo $HOME` == `pwd` (if in home dir)
