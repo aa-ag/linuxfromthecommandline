@@ -1,2 +1,4 @@
 - `echo $SHELL`
 - `echo $HOME` == `pwd` (if in home dir)
+- `clear` to clear terminal 
+- `ls -l`
