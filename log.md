@@ -9,3 +9,8 @@
 - `ls -l .` to show root
 - `ls -l ..` to show one dir above
 - `cd` on its own sends you to your home dir
+- ```the "bit positions" are:
+    User | Group | World
+    111  =   7   = rwx
+    101  =   5   = r_x
+    ```
