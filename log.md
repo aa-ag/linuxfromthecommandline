@@ -5,3 +5,4 @@
 - `ls -l Desktop/` (`/` optional, to show specific dir)
 - `ls -l Desktop/example.csv` to show specific file
 - `ls -ld Desktop/` to show permissions - result would be `drwxr-xr-x 3...` where `d` is `directory`, `rwx` is `read, write & execute` for the user (me/you);  the second batch `r-x` is `read, execute` for a group, and then `r-x` is `read, execute` for anyone.
+- `ls -l -a` to show all files, including hidden files that start with `.`
