@@ -17,3 +17,7 @@
 - `cp <PATH TO FILE OR DIR> .` copies file or dir into current dir
 - `rmdir` removes directory
 - `rm -rf dirname` force removes a dir
+- grep structure:
+
+            command pattern file
+example:    `grep`  `the`   `file.csv`
