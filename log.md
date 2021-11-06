@@ -25,3 +25,4 @@ example:    `grep`  `the`   `file.csv`
 - grep command to ignore pattern:   `grep -v the <file>` 
 - `grep -r boisterious *` searches recursively __everywhere__
 - `find . -name <file>` finds directory of a file
+- `sudo` stands for `super user do`
