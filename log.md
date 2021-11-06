@@ -26,3 +26,4 @@ example:    `grep`  `the`   `file.csv`
 - `grep -r boisterious *` searches recursively __everywhere__
 - `find . -name <file>` finds directory of a file
 - `sudo` stands for `super user do`
+- `2>/dev/null` is used to discard and suppress error outputs
