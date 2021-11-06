@@ -23,3 +23,4 @@
 example:    `grep`  `the`   `file.csv`
 
 - grep command to ignore pattern:   `grep -v the <file>` 
+- `grep -r boisterious *` searches recursively __everywhere__
