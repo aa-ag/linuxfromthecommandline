@@ -15,3 +15,4 @@
     101  =   5   = r_x
     ```
 - `cp <PATH TO FILE OR DIR> .` copies file or dir into current dir
+- `rmdir` removes directory
